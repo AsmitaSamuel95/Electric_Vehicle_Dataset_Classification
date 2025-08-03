@@ -1,6 +1,6 @@
 # Electric Vehicle Eligibility Classification
 
-# This project analyzes electric vehicle data to classify vehicle eligibility for clean alternative fuel programs using machine learning models, coupled with thorough data preprocessing and visualization.
+## This project analyzes electric vehicle data to classify vehicle eligibility for clean alternative fuel programs using machine learning models, coupled with thorough data preprocessing and visualization.
 
 ## Dataset used – Electric_Vehicle_Population_Data.csv 
 Website used - US Government's Data: https://www.data.gov/ 
